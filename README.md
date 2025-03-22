@@ -1,5 +1,10 @@
 # Bubalync
+Wiki всех проектов
 
+## Обзор
+...
 
+## Содержание
 
-[Planner wiki](planner/README.md)
+- [Planner](planner/README.md)
+- [Plant journal](plant_journal/README.md)
